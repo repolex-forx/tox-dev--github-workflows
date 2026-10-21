@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "github-workflows",
+  "versions": [
+    {
+      "commit": "aa039a01064dc0b249793835b85ed0d3e2c2de1c",
+      "parsed_at": "2026-10-21T19:26:11.585095+00:00",
+      "tag": "0.2.0",
+      "filetree": "filetree/aa039a01064dc0b249793835b85ed0d3e2c2de1c.nq.gz",
+      "blobs": [
+        "blob/0bd6a465004836c793b076b2425d4c2d2fd7364f.nq.gz",
+        "blob/5dd706561a7cbcd2990aa76b1afc73abb22b5a26.nq.gz",
+        "blob/a211bd8a48a95c78f866e2c5f517a23af1335c20.nq.gz",
+        "blob/3c8c76c398cd18ee1614510998fd3cdafc370482.nq.gz",
+        "blob/c52fc6c5e115c821756c656ae282586320b55ab6.nq.gz",
+        "blob/f9f1e3c2e46bad30bcf93e4ba1903a40d5aa7567.nq.gz",
+        "blob/a1c23650b5d3e0620cd70c9301bdd4dbea32e3f7.nq.gz",
+        "blob/fe0ea3e79c8fc2c8dcdae0784ad7d6969575a10e.nq.gz",
+        "blob/67cf9774f46ba4f4cf56a759561fe60ca5706065.nq.gz",
+        "blob/bc4f0d0871767bd8be18018de25e1eb0dcc7422c.nq.gz",
+        "blob/a508bfbff5e0c2853001036bba7fa6583938cc8a.nq.gz",
+        "blob/aa516b03f257c8e137619cd1402a0219da77e9b4.nq.gz",
+        "blob/7e20f52a0f3b264739517d1951852469e413bbf5.nq.gz",
+        "blob/364982344fbd94d55705e1f27a9a87abaa255333.nq.gz",
+        "blob/3c7a35d84a90974edcf2aae601330999db39d37d.nq.gz",
+        "blob/2a991bfd7c6831a10de2c6598434b40d5a6ee474.nq.gz",
+        "blob/3c27abf613ebf5725fd233167883713141575df0.nq.gz",
+        "blob/48db84aebb85d9ee63d3b7bb408d6b02e96094be.nq.gz",
+        "blob/50d3feaab2651053ff28f780bff0d4238dc19854.nq.gz",
+        "blob/d80ba3b8d1be4cf1793f1b092732d403dc39bfa0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
